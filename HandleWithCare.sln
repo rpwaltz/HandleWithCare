@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPDHandleWithCare", "KPDHandleWithCare\KPDHandleWithCare.csproj", "{0694075C-8FEF-4FC8-B784-63629D88B92D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandleWithCare", "HandleWithCare\HandleWithCare.csproj", "{0694075C-8FEF-4FC8-B784-63629D88B92D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
